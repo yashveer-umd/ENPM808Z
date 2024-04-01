@@ -12,7 +12,11 @@ click [here](Assignment3/) or click on the `Assignment 3` directory to get the f
 * Assignment 3 has 2 parts:
     - **Part 1** : Theoritical Questions, [pdf](Assignment3/ENPM808Z_assignment_part1.pdf)
     - **Part 2** : Coding Assignment
-        - Instructions [pdf](Assignment3/ENPM808Z_assignment_part2.pdf)
+        - Instructions [pdf](Assignment3/ENPM808Z_assignment_part2.pdf) (Note: It's a 13 page document)
         - Required [Files](Assignment3/Coding%20Assignment/)
+    - **Bonus Question** :
+        - Instructions (Assignment3/ENPM808Z_assignment_part2.pdf): Last page of the document.
+        - Required [Files](https://github.com/mahyaret/kuka_rl?tab=readme-ov-file) 
+ 
 
-* **NOTE:** All Part are need to be completed and submitted, failing to do so will result in lower grade. 
+* **NOTE:** All Parts are need to be completed and submitted except Bonus question, failing to do so will result in lower grade. 
