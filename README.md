@@ -10,8 +10,8 @@ click [here](Assignment1/) or click on the `Assignment 1` directory to get the f
 ## Assignment 3 (04/01/2024)
 click [here](Assignment3/) or click on the `Assignment 3` directory to get the files for the assigment.
 * Assignment 3 has 2 parts:
-    - **Part 1** : Is theoritical Questions, [pdf](Assignment3/ENPM808Z_assignment_part1.pdf)
-    - **Part 2** : Is Coding Assignment
+    - **Part 1** : Theoritical Questions, [pdf](Assignment3/ENPM808Z_assignment_part1.pdf)
+    - **Part 2** : Coding Assignment
         - Instructions [pdf](Assignment3/ENPM808Z_assignment_part2.pdf)
         - Required [Files](Assignment3/Coding%20Assignment/)
 
